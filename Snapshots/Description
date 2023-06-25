@@ -1,0 +1,4 @@
+The goal is to make an DB for managing information about user browsing, order updates, 
+procurement(over the counter purchase), prescribing medicine and wellness products, booking 
+appointments in hospital, lab test and consulting doctor. The app will be for Android platform and will be built using android studio and mysql for managing 
+databases. 
